@@ -1,3 +1,5 @@
+#Checamos si un numero dado es primo o no 
+
 def main():
     numero=int(input("Introduce un numero entero por favor\n"))
     
